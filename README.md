@@ -5,3 +5,8 @@
   - Shapiro-Wilk Test
   - D’Agostino’s K^2 Test
   - Anderson-Darling Test
+2. Student's t-test
+  - One Sample t-test
+  - Two Sample t-test
+    1. Unpaired or Independent t-test
+    2. paired or relational/dependent t-test
