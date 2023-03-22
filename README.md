@@ -1,4 +1,4 @@
-# Stats-Test
+# Stats-Test in Python
 1. Normality Test
   - Histogram
   - QQPlot
