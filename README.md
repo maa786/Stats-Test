@@ -10,3 +10,8 @@
   - Two Sample t-test
     1. Unpaired or Independent t-test
     2. paired or relational/dependent t-test
+3. Anova Test
+  - One Way anova
+  - Pairwise Comparison
+  - bonferroni
+  - Tukey hsd test
