@@ -15,3 +15,5 @@
   - Pairwise Comparison
   - bonferroni
   - Tukey hsd test
+4. Two Way Anova
+  - Tukey test in two way anova
