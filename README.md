@@ -18,3 +18,4 @@
 4. Two Way Anova
   - Tukey test in two way anova
 5. Manova
+6. Correlation
