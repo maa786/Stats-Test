@@ -19,3 +19,4 @@
   - Tukey test in two way anova
 5. Manova
 6. Correlation
+7. 10 EDA tips
